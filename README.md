@@ -22,6 +22,9 @@ Always learning. My background mixes IT engineering and management, and I regula
 **[FlowRaft](https://github.com/vvylym/)** **PRIVATE**
 Building a graph-based workflow engine in Rust. Using tokio/rayon to run complex stateless and stateful workflows across distributed nodes and leveraging the Raft consensus.
 
+**[Lemonade](https://github.com/vvylym/lemonade)**
+An experimental implementation of high performance load balancers in Rust using an adaptive algorithm.
+
 **[SpecKit](https://github.com/vvylym/spec-kit-rs)**
 A pure Rust implementation of the GitHub's "specify" CLI focus on Specification Driven Development (SDD), aiming to provide the features in a rust binary with fewer dependencies.
 
