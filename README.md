@@ -17,22 +17,22 @@ I've led teams of 10+ engineers (from interns to seniors) and mentored developer
 
 Always learning. My background mixes IT engineering and management, and I regularly take courses to sharpen my skills.
 
-## What I'm Working On
+## What I'm Working/Worked On
 
-**[FlowRaft](https://github.com/vvylym/)** **PRIVATE**
-Building a graph-based workflow engine in Rust. Using tokio/rayon to run complex stateless and stateful workflows across distributed nodes and leveraging the Raft consensus.
+**[Lemonade](https://github.com/vvylym/lemonade-tokio)**
+An experimental implementation of high performance load balancer using an adaptive algorithm, leveraging Tokio-only for the load balancer, Axum and Actix Web for workers.
 
-**[Lemonade](https://github.com/vvylym/lemonade)**
-An experimental implementation of high performance load balancers in Rust using an adaptive algorithm.
-
-**[SpecKit](https://github.com/vvylym/spec-kit-rs)**
+**[SpecKit](https://github.com/vvylym/spec-kit-rs)** **WIP**
 A pure Rust implementation of the GitHub's "specify" CLI focus on Specification Driven Development (SDD), aiming to provide the features in a rust binary with fewer dependencies.
 
-**[Product Requirements Document Assistant](https://github.com/vvylym/prd-assistant)**
+**[Product Requirements Document Assistant](https://github.com/vvylym/prd-assistant)** **WIP**
 A CLI tool for generating and refining PRDs using local LLMs. Learning how to make LLMs useful for day-to-day engineering work.
 
 **[Authentication Service with 2FA](https://github.com/vvylym/live-bootcamp-project)**
 Production-ready auth service with 2FA in Rust (axum/tokio/serde/askama). Full CI/CD setup with Docker and GitHub Actions.
+
+**[FlowRaft](https://github.com/vvylym/)** **PRIVATE** **WIP**
+Building a graph-based workflow engine in Rust. Using tokio/rayon to run complex stateless and stateful workflows across distributed nodes and leveraging the Raft consensus.
 
 ## Get in Touch
 
