@@ -1,19 +1,19 @@
 # Guillaume M. | [LinkedIn](https://linkedin.com/in/gmpouli)
 
-**CTO & Principal Software Engineer** | Rust, Backend, Data, AI/ML
+**Rust Software Engineer** | Backend, Data, AI/ML
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
-15+ years building backend systems and leading engineering teams. I've worked across real-estate investment, healthcare, and financial services - from building teams from scratch to shipping production systems.
+15+ years building backend systems and leading engineering teams, worrking across real-estate investment, healthcare, and financial services - from building teams from scratch to shipping production systems.
 
 Right now I'm deep into Rust, building microservices and mastering the ins and outs of async, concurrent and distributed programming. Always exploring new things, whether that's AI/ML applications or the latest patterns in software development.
 
 ## Background
 
-I've led teams of 10+ engineers (from interns to seniors) and mentored developers at all levels. Built distributed systems, data pipelines, and scaled backend infrastructure across different industries.
+I've led teams of 10+ engineers and mentored developers at all levels. Built distributed systems, data pipelines, and scaled backend infrastructure across different industries.
 
 Always learning. My background mixes IT engineering and management, and I regularly take courses to sharpen my skills.
 
