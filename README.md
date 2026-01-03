@@ -1,8 +1,12 @@
 # Guillaume M. (@vvylym) | [LinkedIn](https://linkedin.com/in/gmpouli)
 
-**Senior backend engineer** focused on Rust and distributed systems.
+**Senior backend engineer** focused on Rust and distributed systems, open to IC backend engineering roles where I can:
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+- Write Rust in production,
+ 
+- Work on distributed or performance-critical systems,
+
+- Collaborate with strong engineers and stay hands-on with code.
 
 ---
 
@@ -16,11 +20,3 @@ Pure Rust implementation of transformer inference, exploring performance, memory
 
 **[Lemonade](https://github.com/vvylym/lemonade-tokio)**
 Async TCP load balancer built with Tokio, implementing multiple scheduling strategies and connection pooling patterns.
-
----
-
-## Get in Touch
-
-Open to interesting opportunities in backend development, distributed systems, AI/ML, or technical leadership roles.
-
-[Contact via LinkedIn](https://linkedin.com/in/gmpouli)
