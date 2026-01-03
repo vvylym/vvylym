@@ -1,6 +1,6 @@
-# Guillaume M. (@VVylym)
+# Guillaume M. (@vvylym) | [LinkedIn](https://linkedin.com/in/gmpouli)
 
-**Senior backend engineer*** focused on Rust and distributed systems.
+**Senior backend engineer** focused on Rust and distributed systems.
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
