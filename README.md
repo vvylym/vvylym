@@ -8,7 +8,6 @@
 
 - Collaborate with strong engineers and stay hands-on with code.
 
----
 
 ## What I'm Working On
 
@@ -16,9 +15,12 @@
 
 Workflow engine in Rust implementing Raft consensus for distributed task coordination. Focused on leader election, log replication, and fault-tolerant state management.
 
+
 **[NanoChat-Aprender](https://github.com/vvylym/nanochat-aprender)**
 
-Pure Rust implementation of transformer inference, exploring performance, memory layout, and systems-level trade-offs in ML workloads.
+A Rust port of nanochat (Karpathy's ChatGPT clone) leveraging Aprender by Pragmatic AI Labs.
+
+
 
 **[Lemonade](https://github.com/vvylym/lemonade-tokio)**
 
