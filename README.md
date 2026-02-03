@@ -16,12 +16,6 @@
 Workflow engine in Rust implementing Raft consensus for distributed task coordination. Focused on leader election, log replication, and fault-tolerant state management.
 
 
-**[NanoChat-Aprender](https://github.com/vvylym/nanochat-aprender)**
-
-A Rust port of nanochat (Karpathy's ChatGPT clone) leveraging Aprender by Pragmatic AI Labs.
-
-
-
 **[Lemonade](https://github.com/vvylym/lemonade-tokio)**
 
 Async TCP load balancer built with Tokio, implementing multiple scheduling strategies and connection pooling patterns.
