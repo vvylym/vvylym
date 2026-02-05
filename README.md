@@ -1,4 +1,4 @@
-# Guillaume M. (@vvylym) | [LinkedIn](https://linkedin.com/in/gmpouli)
+# Guillaume Mpouli (@vvylym) | [LinkedIn](https://linkedin.com/in/gmpouli)
 
 **Senior Backend Engineer** focused on **Rust**, backend, distributed systems and AI.
 
