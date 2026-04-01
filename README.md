@@ -1,7 +1,5 @@
 # Guillaume M.
 
-**Senior Backend Engineer** focused on **Rust**, High performance APIs / Distributed systems & AI/ML-powered integrations. Open to new challenges.
+**Software Engineer** focused on **Rust**, high performant backends, and AI/ML-powered integrations. 
 
-## Contact
-
-- [LinkedIn](https://linkedin.com/in/gmpouli)
+Open to new challenges. Reach out on [LinkedIn](https://linkedin.com/in/gmpouli).
