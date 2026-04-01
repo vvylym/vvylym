@@ -1,11 +1,7 @@
-# Guillaume Mpouli (@vvylym) | [LinkedIn](https://linkedin.com/in/gmpouli)
+# Guillaume M.
 
-**Senior Backend Engineer** focused on **Rust**, backend, distributed systems and AI.
+**Senior Backend Engineer** focused on **Rust**, High performance APIs / Distributed systems & AI/ML-powered integrations. Open to new challenges.
 
-Open to:
+## Contact
 
-- Write Rust in production,
- 
-- Work on performance-critical systems,
-
-- Learn and grow among other engineers and cross-functional teams.
+- [LinkedIn](https://linkedin.com/in/gmpouli)
